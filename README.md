@@ -1,6 +1,12 @@
 # TIKTOK_BANNED
 😈 TOOLS TIKTOK INI MERUPAKAN REPOT AKUN DI BLOKIR SELAMANYA HAHAHA 😈
 
+# TAMPILAN TERMUX TOOLS BANNED TIKTOK 
+
+
+<a href="https://ibb.co.com/JwH2hNtZ"><img src="https://i.ibb.co.com/nNjfWTmp/Screenshot-20250317-021929.png" alt="Screenshot-20250317-021929" border="0"></a>
+
+
 # TERMUX PKG INSTALL
 pkg update 
 
